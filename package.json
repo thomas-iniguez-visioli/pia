@@ -86,7 +86,7 @@
     "@angular/compiler-cli": "^18.2.8",
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "@types/jasmine": "~3.6.11",
+    "@types/jasmine": "~3.10.18",
     "@types/jasminewd2": "~2.0.10",
     "@types/node": "^14.11.11",
     "codelyzer": "^6.0.2",
